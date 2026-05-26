@@ -5,7 +5,8 @@
   </a>
 </h1>
 <h3 align="center">Computer Science Student | Backend & Data Engineering Explorer | AI Engineering</h3>
-- ### 🔭 Current Focus</h3>
+
+- ### 🔭 Current Focus
 **Deep diving into System Architecture and proper Backend Engineering principles.**
 
 - ### 🌱 I’m currently learning
