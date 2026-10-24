@@ -27,7 +27,7 @@
 **utsabkhadka9475@gmail.com**
 
 - ### 📄 Know about my experiences
-[Resume on progress.....]
+[View My Resume](Utsab_Khadka_Resume.pdf)
 
 - ### ⚡ Fun fact
 **hmm... Thinking about it..**
